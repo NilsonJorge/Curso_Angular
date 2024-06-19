@@ -13,3 +13,7 @@
 ## Criar um componente
 
     ng generate component components/nomr_componente
+
+## Criar Service
+
+    ng generate service services/nome
